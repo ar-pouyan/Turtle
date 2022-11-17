@@ -62,7 +62,6 @@ bob.pendown()
 # bob.forward(170)
 # bob.left(90)
 # bob.end_fill()
-
 bob.fillcolor(0.0,0.0,0.0)
 bob.begin_fill()
 bob.forward(120)
@@ -75,9 +74,7 @@ bob.forward(200)
 bob.left(90)
 bob.end_fill()
 bob.forward(30)
-
 bob.left(90)
-
 bob.penup()
 bob.forward(30)
 bob.pendown()
